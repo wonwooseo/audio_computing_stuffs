@@ -1,2 +1,2 @@
 # audio_computing_stuffs
-Random stuffs from audio computing
+Fiddling with audio computing concepts in Jupyter Notebook.
